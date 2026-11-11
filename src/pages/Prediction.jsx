@@ -26,7 +26,7 @@ export default function Prediction() {
     setResult(null);  // Clear previous result
 
     try {
-      const apiUrl = import.meta.env.VITE_API_URL || "https://diabetes-k80q.onrender.com";
+      const apiUrl = import.meta.env.VITE_API_URL || "https://diabetes-prediction-api-1oqj.onrender.com";
       const response = await fetch(`${apiUrl}/predict`, {
         method: "POST",
         headers: {
