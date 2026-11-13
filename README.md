@@ -22,7 +22,7 @@
 
 > A modern, responsive web application for predicting diabetes risk using machine learning. Built with React, Vite, and ONNX runtime for edge-based predictions.
 
-[Live Demo](#-live-deployment) • [Features](#-features) • [Quick Start](#-quick-start) • [Documentation](#-documentation)
+[Live Demo](https://diabetes-prediction-using-ml-rho.vercel.app) • [Features](#-features) • [Quick Start](#-quick-start) • [Documentation](#-documentation)
 
 </div>
 
@@ -153,8 +153,8 @@ Before you begin, ensure you have the following installed on your system:
 #### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/diabetes-frontend.git
-cd Diabetes_Frontend-main
+git clone https://github.com/yourusername/diabetes-frontend.git](https://github.com/snehaghosh-projects/Diabetes-Prediction-using-ML.git
+cd Diabetes-Prediction-using-ML
 ```
 
 #### 2️⃣ Install Frontend Dependencies
@@ -556,7 +556,7 @@ The `vercel.json` file is already configured with:
 - Proper caching headers
 - Environment variables support
 
-**Production URL**: `https://your-app.vercel.app` (configured in Vercel dashboard)
+**Production URL**: `https://diabetes-prediction-using-ml-rho.vercel.app/` (configured in Vercel dashboard)
 
 ---
 
