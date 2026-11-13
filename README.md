@@ -483,7 +483,7 @@ The form collects the following health metrics:
   insulinLevel: number,
   pregnancies: number,
   skinThickness: number,
-  diabetes pedigree function:number
+  diabetesPedigreeFunction: number
 }
 ```
 
