@@ -4,6 +4,9 @@
 
 **AI-Powered Diabetes Risk Assessment Platform with Full Stack Architecture**
 
+> ⚠️ **Disclaimer:** This application is for educational purposes only. It is not a medical device and does not provide medical advice, diagnosis, or treatment. Always consult a qualified healthcare professional about your health.
+
+
 [![React](https://img.shields.io/badge/React-19.1.1-%23087EA4?style=flat-square&logo=react)](https://react.dev/)
 [![Vite](https://img.shields.io/badge/Vite-7.1.2-%23646CFF?style=flat-square&logo=vite)](https://vitejs.dev/)
 [![Node.js](https://img.shields.io/badge/Node.js-18+-339933?style=flat-square&logo=node.js)](https://nodejs.org/)
@@ -271,7 +274,7 @@ python app.py
 ## 📁 Project Structure
 
 ```
-Diabetes_Frontend-main/
+Diabetes-Prediction-using-ML/
 │
 ├── public/                          # Static assets
 │   ├── diabetes_model.onnx         # Optional ONNX ML model
@@ -474,13 +477,13 @@ The form collects the following health metrics:
 ```javascript
 {
   age: number,
-  gender: string,
   bmi: number,
   bloodPressure: number,
   glucose: number,
   insulinLevel: number,
   pregnancies: number,
-  skinThickness: number
+  skinThickness: number,
+  diabetes pedigree function:number
 }
 ```
 
@@ -692,9 +695,9 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ## 👥 Support & Contact
 
 For questions, issues, or suggestions:
-- Open an [Issue](https://github.com/yourusername/diabetes-frontend/issues)
-- Start a [Discussion](https://github.com/yourusername/diabetes-frontend/discussions)
-- Email: your-email@example.com
+- Open an [Issue]([https://github.com/yourusername/diabetes-frontend/issues](https://github.com/snehaghosh-projects/Diabetes-Prediction-using-ML/issues))
+- Start a [Discussion]([https://github.com/yourusername/diabetes-frontend/discussions](https://github.com/snehaghosh-projects/Diabetes-Prediction-using-ML/discussions))
+- Email: ghoshsnehaaaa@gmail.com
 
 ---
 
